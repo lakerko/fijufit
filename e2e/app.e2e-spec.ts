@@ -1,6 +1,6 @@
 import { FijufitPage } from './app.po';
 
-describe('fijufit App', () => {
+describe('fijufit App', function() {
   let page: FijufitPage;
 
   beforeEach(() => {
